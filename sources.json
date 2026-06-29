@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "agid-source-policy-v0.1",
+  "repository": "agid-europe-western-europe-index",
+  "sourcePolicy": [
+    "Prefer official government, postal, open GIS, and openly licensed hydrographic sources.",
+    "Keep large GIS extracts, tiles, building polygons, search indexes, and generated caches outside GitHub.",
+    "Track upstream licenses before publishing any country or territory data pack.",
+    "Overseas-linked, disputed, or special areas require explicit display policy before data publication."
+  ],
+  "noRawMaterial": [
+    "raw personal address",
+    "recipient record",
+    "precise private coordinate",
+    "witness material",
+    "private key"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "agid-related-repositories-v0.1",
+  "repository": "agid-europe-western-europe-index",
+  "relatedRepositories": [
+    {
+      "repository": "agid-country-fr",
+      "kind": "country-parent",
+      "region": "western_europe",
+      "countryCode": "FR",
+      "countryName": "France",
+      "parentRepository": "agid-europe-western-europe-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for France; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-be",
+      "kind": "country-parent",
+      "region": "western_europe",
+      "countryCode": "BE",
+      "countryName": "Belgium",
+      "parentRepository": "agid-europe-western-europe-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Belgium; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-nl",
+      "kind": "country-parent",
+      "region": "western_europe",
+      "countryCode": "NL",
+      "countryName": "Netherlands",
+      "parentRepository": "agid-europe-western-europe-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Netherlands; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-lu",
+      "kind": "country-parent",
+      "region": "western_europe",
+      "countryCode": "LU",
+      "countryName": "Luxembourg",
+      "parentRepository": "agid-europe-western-europe-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Luxembourg; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    },
+    {
+      "repository": "agid-country-mc",
+      "kind": "country-parent",
+      "region": "western_europe",
+      "countryCode": "MC",
+      "countryName": "Monaco",
+      "parentRepository": "agid-europe-western-europe-index",
+      "stage": "wave-1-country-parent",
+      "githubCreateNow": false,
+      "dataReady": false,
+      "creationRationale": "Country and territory parents wait for maintainers, source licenses, postal policy, address hierarchy rules, quality gates, and no-raw checks.",
+      "description": "AGID country or territory pack for Monaco; stores safe rules, sources, quality gates, and synthetic fixtures only."
+    }
+  ]
+}

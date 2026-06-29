@@ -1,0 +1,34 @@
+{
+  "schemaVersion": "agid-quality-gates-v0.1",
+  "repository": "agid-europe-western-europe-index",
+  "gates": [
+    {
+      "id": "json-valid",
+      "required": true
+    },
+    {
+      "id": "no-raw-address",
+      "required": true
+    },
+    {
+      "id": "source-license-declared",
+      "required": true
+    },
+    {
+      "id": "breadcrumb-reconstruction-defined",
+      "required": true
+    },
+    {
+      "id": "postal-status-declared",
+      "required": true
+    },
+    {
+      "id": "overseas-and-special-region-display-policy",
+      "required": true
+    },
+    {
+      "id": "large-gis-externalized",
+      "required": true
+    }
+  ]
+}

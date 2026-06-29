@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "agid-index-repository-manifest-v0.1",
+  "repository": "agid-europe-western-europe-index",
+  "kind": "region-index",
+  "owner": "dawnportinfo-design",
+  "canonicalContinent": "europe",
+  "region": "western_europe",
+  "stage": "wave-0-index",
+  "dataReady": true,
+  "sourcePlanVersion": "agid-europe-repository-creation-plan-v1",
+  "generatedAt": "2026-06-29T05:03:54.260Z",
+  "privacy": {
+    "rawAddressStorage": false,
+    "recipientStorage": false,
+    "precisePrivateCoordinates": false,
+    "witnessMaterial": false,
+    "privateKeys": false
+  },
+  "relatedRepositories": [
+    {
+      "repository": "agid-country-fr",
+      "kind": "country-parent",
+      "countryCode": "FR",
+      "countryName": "France",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-be",
+      "kind": "country-parent",
+      "countryCode": "BE",
+      "countryName": "Belgium",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-nl",
+      "kind": "country-parent",
+      "countryCode": "NL",
+      "countryName": "Netherlands",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-lu",
+      "kind": "country-parent",
+      "countryCode": "LU",
+      "countryName": "Luxembourg",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    },
+    {
+      "repository": "agid-country-mc",
+      "kind": "country-parent",
+      "countryCode": "MC",
+      "countryName": "Monaco",
+      "stage": "wave-1-country-parent",
+      "dataReady": false
+    }
+  ]
+}
