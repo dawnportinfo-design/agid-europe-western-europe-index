@@ -6,6 +6,7 @@
   "canonicalContinent": "europe",
   "region": "western_europe",
   "stage": "wave-0-index",
+  "indexReady": true,
   "dataReady": true,
   "sourcePlanVersion": "agid-europe-repository-creation-plan-v1",
   "generatedAt": "2026-06-29T05:03:54.260Z",
@@ -14,7 +15,9 @@
     "recipientStorage": false,
     "precisePrivateCoordinates": false,
     "witnessMaterial": false,
-    "privateKeys": false
+    "privateKeys": false,
+    "carrierOperationalData": false,
+    "proofSecrets": false
   },
   "relatedRepositories": [
     {

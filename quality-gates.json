@@ -23,11 +23,15 @@
       "required": true
     },
     {
-      "id": "overseas-and-special-region-display-policy",
+      "id": "special-region-display-policy",
       "required": true
     },
     {
       "id": "large-gis-externalized",
+      "required": true
+    },
+    {
+      "id": "country-child-split-justified",
       "required": true
     }
   ]
